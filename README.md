@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 About me ... You can call me just <b>Max</b>. 
+- 💬 About me ... You can just call me Max. I am a C# developer. 
 - 📫 How to reach me: ... maxscript99@gmail.com
 - 🔭 I’m currently focusing on ... Blazor for web, mobile, hybrid app now.
 - 🌱 I’m currently learning ... Blazor, Container, MachineLearning and so on.
