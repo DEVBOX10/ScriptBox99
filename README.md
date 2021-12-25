@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - Once I developed with BizTalk, SAP.
 - Once I developed with Node.js, AngularJS, Vue.
 - Once I developed with ASP, PHP, JSP.
-- I covered ERP, CRM, Groupware, such enterprise oriened solutions.
+- I covered ERP, CRM, Groupware, SCM, MES such enterprise oriened solutions.
 
