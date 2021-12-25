@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about ... You can call me just <b>Max</b>. 
+- 💬 About me ... You can call me just <b>Max</b>. 
+- 📫 How to reach me: ... maxscript99@gmail.com
 - 🔭 I’m currently focusing on ... Blazor for web, mobile, hybrid app now.
 - 🌱 I’m currently learning ... Blazor, Container, MachineLearning and so on.
 - Once I developed WinForm, WPF.
@@ -27,4 +28,4 @@ Here are some ideas to get you started:
 - Once I developed Node.js, AngularJS, Vue.
 - Once I developed ASP, PHP, JSP.
 - I covered ERP, CRM, Groupware, such enterprise oriened solutions.
-- 📫 How to reach me: ... maxscript99@gmail.com
+
