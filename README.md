@@ -5,16 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently focusing on ... Blazor for web, mobile, hybrid app now.
-- 🌱 I’m currently learning ... Blazor, Container, MachineLearning and so on.
-- 💬 Ask me about ... You can call me just Max. 
-- Once I developed WinForm, WPF.
-- Once I developed WebForm, MVC, WebAPI.
-- Once I developed BizTalk, SAP.
-- Once I developed Node.js, AngularJS, Vue.
-- Once I developed ASP, PHP, JSP.
-- I covered ERP, CRM, Groupware, such enterprise oriened solutions.
-- 📫 How to reach me: ... maxscript99@gmail.com
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -22,10 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... maxscript99@gmail.com
 - 🔭 I’m currently focusing on ... Blazor for web, mobile, hybrid app now.
 - 🌱 I’m currently learning ... Blazor, Container, MachineLearning and so on.
-- Once I developed WinForm, WPF.
-- Once I developed WebForm, MVC, WebAPI.
-- Once I developed BizTalk, SAP.
-- Once I developed Node.js, AngularJS, Vue.
-- Once I developed ASP, PHP, JSP.
+- Once I developed with WinForm, WPF.
+- Once I developed with WebForm, MVC, WebAPI.
+- Once I developed with BizTalk, SAP.
+- Once I developed with Node.js, AngularJS, Vue.
+- Once I developed with ASP, PHP, JSP.
 - I covered ERP, CRM, Groupware, such enterprise oriened solutions.
 
