@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently focusing on ... Blazor for web, mobile, hybrid app now.
 - 🌱 I’m currently learning ... Blazor, Container, MachineLearning and so on.
 - I am transitioning to consumer oriented services now.
-- Once I developed with WinForm, WPF.
-- Once I developed with WebForm, MVC, WebAPI.
-- Once I developed with BizTalk, SAP.
+- Once I developed with WinForm, WPF for years.
+- Once I developed with WebForm, MVC, WebAPI for years.
+- Once I developed with BizTalk, SAP for years.
 - Once I developed with Node.js, AngularJS, Vue.
-- Once I developed with ASP, PHP, JSP.
+- Once I developed with ASP, PHP, JSP for years.
 - I covered ERP, CRM, Groupware, SCM, MES such enterprise oriened solutions.
 
