@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 💬 About me ... You can just call me Max. I am a C# developer. 
 - 📫 How to reach me: ... maxscript99@gmail.com
 - 🔭 I’m currently focusing on ... Blazor for web, mobile, hybrid app now.
-- 🌱 I’m currently learning ... Blazor, Container, MachineLearning and so on.
+- I made and I'm making a few Blazor app for productivity tools and more.
+- 🌱 I’m learning ... Container, MachineLearning and so on.
 - I am transitioning to consumer oriented services now.
 - From the front-end to the back-end I designed and developed couple of systems for years.
 - So I have learned a lot while I designed and developed all system levels for each stack.
